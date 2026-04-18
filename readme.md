@@ -132,7 +132,6 @@ While this project is designed for educational purposes, consider implementing t
 -----
 
 **Author:** Phat  
-**License:** This project is licensed under the MIT License - see the LICENSE file for details.
 
 -----
 
