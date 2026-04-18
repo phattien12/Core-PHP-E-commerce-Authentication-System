@@ -35,7 +35,7 @@ This application serves as a comprehensive starting point for learning backend w
 ## 🗂️ Project Structure
 
 ```text
-521H0480_NguyenPhuongTai/
+Core-PHP-E-commerce-Authentication-System/
 │
 ├── index.php              # Homepage & Product Display
 ├── login.php              # User Authentication
